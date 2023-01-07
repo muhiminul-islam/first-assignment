@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/* header style */
+.header {
+    background-image: url('../images/banner/banner3.png');
+    width: 1750px;
+    height: 808px;
+
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: white;
+    text-align: right;
+    margin-right: 300px;
+    padding-top: 200px;
+
+
+}
+
+.header-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    text-align: right;
+    margin-right: 300px;
+    padding-top: 30px;
+
+}
+
+.btn-primary {
+    border-color: white;
+    width: 160px;
+    height: 64px;
+    background: white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #005FAC;
+    border-radius: 5px;
+    position: absolute;
+    margin: 25px 230px 166px 1290px;
+}
+/* first-body */
+.first-body-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 841px;
+    top: 1177px;
+
+}
+
+.first-body-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 841px;
+    top: 1295px;
+}
+/* first-body-list */
+
+.li-1 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+
+    color: #444343;
+    position: absolute;
+    width: 315px;
+    height: 26px;
+    left: 875px;
+    top: 1415px;
+}
+
+.li-2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+
+    color: #444343;
+    position: absolute;
+    width: 206px;
+    height: 26px;
+    left: 875px;
+    top: 1449px;
+
+}
+
+.li-3 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+  
+
+    color: #444343;
+    position: absolute;
+    width: 272px;
+    height: 26px;
+    left: 875px;
+    top: 1483px;
+
+}
+
+.li-4 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+   
+
+    color: #444343;
+    position: absolute;
+    width: 315px;
+    height: 26px;
+    left: 875px;
+    top: 1517px;
+}
+
+.li-5 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+    color: #444343;
+    position: absolute;
+    width: 213px;
+    height: 26px;
+    left: 875px;
+    top: 1551px;
+
+}
+/* first-body-image-style */
+.first-body-image{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 185px;
+top: 938px;
+}
+/* second body style */
+.second-body-title{
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+color: #151414;
+position: absolute;
+width: 179px;
+height: 47px;
+left: 765px;
+top: 1792px;
+}
+/* second body style  */
+.second-body{
+    display: flex;
+}
+.second-body ul{
+display: flex;
+position: absolute;
+width: 1141px;
+height: 202.96px;
+left: 230px;
+top: 1889px;
+justify-content: space-between;
+}
+.second-body li{
+list-style: none;
+
+}
+.plans-title{
+    font-weight: 700;
+font-size: 30px;
+line-height: 60px;
+text-align: center;
+
+
+color: #151414;
+}
+.plans-description{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #737272;
+}
+/* gradient style */
+.gradient-img{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+border-radius: 8px;
+
+}
