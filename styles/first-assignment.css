@@ -201,8 +201,33 @@ text-align: center;
 color: #737272;
 }
 /* gradient style */
-.gradient-img{
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+.gradient{      
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
 border-radius: 8px;
+}
+.gradient-title{
+    color: white;
+    font-weight: 700;
+font-size: 40px;
+margin-top: 90px;
+margin-left: 40px;
 
+}
+.btn-secondary{
+   width: 160px;
+   height: 64px;
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 23px;
+   text-align: center;
+   color: #005FAC;
+   border-radius: 5px;
+   border-color: white;
+   margin-top: 24px;
+   margin-left: 40px;
 }
