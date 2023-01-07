@@ -3,6 +3,7 @@
     font-family: 'Work Sans', sans-serif;
 }
 /* header style */
+
 .header {
     background-image: url('../images/banner/banner3.png');
     width: 1750px;
@@ -311,4 +312,46 @@ color: #FFFFFF;
 background: #005FAC;
 border-radius: 8px;
    
+}
+.footer1{
+   width: 1800px;
+   height: 500px;
+   left: 0;
+   top: 3300px;
+   background: #737272;
+   position: absolute;
+    
+}
+/* new footer footer1 */
+.footer1-title{
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+#footer1-text, #footer1-email, #footer1-number{
+    height: 25px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+/* #footer1-email{
+    height: 25px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 20px; */
+
+/* #footer1-number{
+    height: 25px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 20px; */
+
+#footer1-textarea{
+    
+    width: 250px;
+    margin-top: 10px;
+   margin-left: 20px;
+}
+.footer1-button{
+    margin-left: 20px;
 }
